@@ -2,10 +2,10 @@
 
 class Db
 {
-    private $host = "localhost";
-    private $user = "root";
-    private $password = "";
-    private $dbname = "showroom";
+    private $host = "fdb23.awardspace.net";
+    private $user = "3420813_webproject";
+    private $password = "QIUweb88";
+    private $dbname = "3420813_webproject";
 
 
     public function connect()
